@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ballolol</string>
+    <string name="gameTitle">Ball&#160;&#160;l&#160;&#160;l</string>
+    <string name="intro">Tap the ball to start.</string>
+    <string name="start_button">Start</string>
+    <string name="high_score">HS: %d</string>
+    <string name="pause">Press the back button to pause anytime.</string>
+    <string name="resume">Tap anywhere to resume.\n\nPress the back button to\nreturn to the start screen.</string>
+    <string name="counter">%d</string>
+    <string name="modeSelect">Select a game mode:</string>
+    <string name="single_tap">Single Tap</string>
+    <string name="multi_tap">Multi Tap</string>
+    <string name="single_tap_desc">Tap the ball once during the cue to earn points.</string>
+    <string name="multi_tap_desc">Tap the ball multiple times during the cue and until the counter is depleted to earn points.</string>
+
+    <string name="ballDescription">The central object of the game to be manipulated by the player.</string>
+    <string name="cueDescription">The signal that the ball must be tapped to score a point.</string>
+    <string name="eyeDescription">One of the eyes of the cue.</string>
+</resources>
